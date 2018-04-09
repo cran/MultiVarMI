@@ -1,0 +1,9 @@
+exportPattern("^[[:alpha:]]+")
+
+import(BinOrdNonNor, CorrToolBox, corpcor, Matrix, moments, norm)
+
+import(PoisNonNor)
+
+importFrom("stats", "cor", "pnorm", "ppois", "qnorm", "qpois", "rnorm", "sd", "var")
+
+importFrom("utils", "combn")

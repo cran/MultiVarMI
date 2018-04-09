@@ -1,0 +1,17 @@
+5cd3cacece1a8f7f0cdcd13330412af2 *DESCRIPTION
+c793c62348dff450cdb8b2276033082f *NAMESPACE
+36eabb734f6b4fb2fc1e33da9e64e522 *R/MI.R
+e955797e9985220551bf195d031da50a *R/MVN.corr.R
+bddfc12b87711608ee653762729eefb2 *R/MVN.dat.R
+d9eed6dcaf42bf2af3b8b800713984d1 *R/countrate.R
+90626cf332b7108a44f3a23464215527 *R/nctsum.R
+35dc696ca5b5231c5064564d1d2e0e70 *R/ordmps.R
+b7866719c8684de85c2578790d6328cc *R/trMVN.dat.R
+78150a2a764c65f013fb34b80dee2fca *man/MI.Rd
+526f9ae72c2b21799429d586d81bb48d *man/MVN.corr.Rd
+26f85c022e50db3c4af74f4256c0c349 *man/MVN.dat.Rd
+6a3cfe6a23572faf931015bb5f0cdc93 *man/MultiVarMI-package.Rd
+d11dd206f65c7d75a9726eaf3a22c57f *man/countrate.Rd
+13d85e9f574af262adabce5e597089a6 *man/nctsum.Rd
+04598562fb74953bb8788155421ceddf *man/ordmps.Rd
+5dabb0523aeaeb95feb75b226742dbfc *man/trMVN.dat.Rd
